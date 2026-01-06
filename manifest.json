@@ -1,0 +1,16 @@
+
+{
+  "short_name": "DualStream",
+  "name": "DualStream Finance Pro",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10307/10307901.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f8fafc",
+  "background_color": "#f8fafc"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "DualStream Finance Live",
+  "description": "Professional-grade dual-stream finance tracker for freelancers. Manage business and personal flows with AI-powered insights and local-first data security.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
